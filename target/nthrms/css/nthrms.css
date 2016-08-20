@@ -1,0 +1,283 @@
+html {
+	width: 100%;
+	overflow-x: hidden;
+	overflow-y: scroll;
+}
+
+a {
+	color: #FFFFFF !important;
+}
+
+.modal {
+	overflow-y: auto;
+}
+
+.nth-icon {
+	width: 20px;
+	height: 20px;
+}
+
+.nth-login-form {
+	margin: 0 auto;
+	margin-top: 15%;
+	width: 400px;
+}
+
+.nth-error-form {
+	margin: 0 auto;
+	margin-top: 15%;
+	width: 1000px;
+	text-align: center;
+}
+
+.nth-label {
+	font-size: 14px !important;
+}
+
+.nth-login-caption {
+	text-align: center;
+}
+
+.nth-login-button {
+	width: 250px;
+	background-color: #999999 !important;
+}
+
+.nth-login-button:hover {
+	background-color: #555555 !important;
+}
+
+.nth-login-error {
+	display: table;
+	margin: 0 auto;
+}
+
+.nth-body {
+	background-color: #2B3E50;
+	background-image: linear-gradient(to bottom, #2B3E50 0px, #999999 100%);
+	background-repeat: repeat-x;
+}
+
+.nth-narbar-container {
+	display: block;
+	width: 90%;
+	margin: 0 auto;
+}
+
+.nth-container {
+	display: table;
+	width: 90%;
+	margin: 0 auto;
+	margin-top: 50px;
+	margin-bottom: 10px;
+}
+
+.nth-footer {
+	display: block;
+	width: 90%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.nth-col-left {
+	float: left;
+	display: block;
+	width: 19%;
+}
+
+.nth-col-right {
+	float: right;
+	display: block;
+	width: 80%;
+}
+
+.nth-input {
+	width: 225px !important;
+	border-radius: 0px !important;
+}
+
+.nth-button {
+	width: 100px;
+}
+
+.nth-arrow {
+	border-color: rgba(0, 0, 0, 0);
+	border-bottom-color: rgba(217, 83, 79, 1);
+	border-style: solid;
+	border-width: 5px;
+	width: 0;
+	left: 29px;
+	top: 34px;
+	position: absolute;
+}
+
+.nth-error {
+	display: block;
+	border-radius: 5px;
+	width: 275px !important;
+	font-size: 14px !important;
+	margin-top: 5px;
+	padding: 5px 10px 5px 10px;
+}
+
+.nth-select,.nth-select>button {
+	background-color: #FFFFFF !important;
+	width: 225px !important;
+	font-size: 14px !important;
+	color: #2B3E50 !important;
+}
+
+.nth-select>div>ul>li {
+	background-color: #2B3E50 !important;
+}
+
+.nth-select>div>ul>li>a {
+	color: #FFFFFF !important;
+}
+
+.nth-textarea {
+	min-width: 225px;
+	min-height: 78px;
+	max-height: 300px;
+	width: 225px !important;
+}
+
+.nth-button-add,.nth-button-remove,.nth-button-add1,.nth-button-remove1
+	{
+	font-weight: bolder;
+	font-size: 30px;
+	border-radius: 15px;
+	line-height: 0px;
+	padding: 0px;
+	margin-right: 5px;
+	width: 25px;
+	height: 25px;
+	width: 25px;
+	position: relative;
+	top: 5px;
+}
+
+.nth-hide {
+	display: none;
+}
+
+.nth-skill {
+	text-align: center;
+	margin-bottom: 0px !important;
+}
+
+.nth-menu:hover {
+	background-color: #DF691A !important;
+}
+
+.nth-button-group {
+	position: absolute;
+	right: 7.6%;
+	z-index: 1000;
+}
+
+.nth-button-status {
+	width: 175px;
+}
+
+.nth-addon {
+	background-color: #999999 !important;
+	color: #000000 !important;
+}
+
+.nth-select>.dropdown-menu {
+	left: 225px !important;
+	top: 0% !important;
+	float: none;
+	padding: 0px;
+}
+
+#nth-skill-container {
+	border: 1px solid #CCCCCC;
+}
+
+.nth-certificate {
+	border: 1px solid #CCCCCC;
+	padding: 10px;
+	margin-bottom: 5px;
+}
+
+.nth-experience {
+	border: 1px solid #CCCCCC;
+	padding: 10px;
+	margin-bottom: 5px;
+}
+
+.nth-table-progress {
+	margin: 0 auto;
+	width: 900px;
+	border: 2px solid #CCCCCC;
+	border-radius: 60px;
+	border-collapse: separate;
+	font-size: 14px !important;
+	text-align: center;
+}
+
+.nth-td {
+	width: 160px;
+	border: 2px solid #CCCCCC;
+}
+
+.nth-table-progress-sub {
+	margin: 0 auto;
+	padding: 10px;
+	border-collapse: separate;
+	font-size: 14px !important;
+	text-align: center;
+	width: 100%;
+}
+
+.nth-td1 {
+	width: 64%;
+	font-size: 20px;
+	font-weight: bold;
+	color: #FFFF00;
+}
+
+.nth-td2 {
+	font-weight: bold;
+	color: #00FFFF;
+}
+
+.nth-td3 {
+	font-weight: bold;
+	color: #00FF00;
+}
+
+.nth-td4 {
+	font-weight: bold;
+	color: #FF0000;
+}
+
+.nth-note {
+	margin-left: 73px;
+}
+
+.nth-td-a {
+	display: block;
+	width: 100%;
+	height: 100%;
+	text-decoration: none !important;
+	line-height: 30px;
+}
+
+.nth-td-a:HOVER {
+	background-color: #999999;
+}
+
+.nth-dropdown-menu{
+	min-width: 0px !important;
+}
+
+.dropdown-menu > li > a{
+	font-size: 14px !important;
+}
+
+.nth-button-a{
+	width: 160px;
+}

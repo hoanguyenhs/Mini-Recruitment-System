@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-catalog="nthrms" match-name="address"/>
+  <table-filter match-catalog="nthrms" match-name="candidate"/>
+  <table-filter match-catalog="nthrms" match-name="candidateskill"/>
+  <table-filter match-catalog="nthrms" match-name="certificate"/>
+  <table-filter match-catalog="nthrms" match-name="division"/>
+  <table-filter match-catalog="nthrms" match-name="experience"/>
+  <table-filter match-catalog="nthrms" match-name="history"/>
+  <table-filter match-catalog="nthrms" match-name="offersalary"/>
+  <table-filter match-catalog="nthrms" match-name="phase"/>
+  <table-filter match-catalog="nthrms" match-name="phasedetail"/>
+  <table-filter match-catalog="nthrms" match-name="position"/>
+  <table-filter match-catalog="nthrms" match-name="positionskill"/>
+  <table-filter match-catalog="nthrms" match-name="scheduleinterview"/>
+  <table-filter match-catalog="nthrms" match-name="scheduleonlinetest"/>
+  <table-filter match-catalog="nthrms" match-name="skill"/>
+  <table-filter match-catalog="nthrms" match-name="skillgroup"/>
+  <table-filter match-catalog="nthrms" match-name="skilllevel"/>
+  <table-filter match-catalog="nthrms" match-name="skillname"/>
+  <table-filter match-catalog="nthrms" match-name="user"/>
+  <table-filter match-catalog="nthrms" match-name="vacancy"/>
+  <table-filter match-catalog="nthrms" match-name="vacancyskill"/>
+</hibernate-reverse-engineering>
